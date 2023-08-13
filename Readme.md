@@ -1,4 +1,6 @@
 ### Fitbit data analysis
+### Tool used
+#### Ms Excel
 
 ## Motive
 Analyze Fitbit fitness tracker data to deliver marketing and business solutions to WeFit and its
